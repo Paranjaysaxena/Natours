@@ -1,1 +1,1 @@
-https://natours-outdoor.herokuapp.com/index.html
+https://natours-outdoor.herokuapp.com/
