@@ -1,3 +1,20 @@
+<h1 align="center">
+  <br>
+  <a href="https://natours-outdoors.herokuapp.com/"><img src="https://github.com/Paranjaysaxena/Natours/blob/master/img/logo-green-2x.png" alt="Natours" width="200"></a>
+</h1>
+ 
+ <p align="center">
+  <a href="#natours">Natours</a> •
+  <a href="#how-to-run-this-application">Demo</a> •
+  <a href="#features">Features</a> •
+  <a href="#implements-7-1-css-architecture">Architecture</a> •
+  <a href="#principles-of-responsive-design-and-layout-types">Principles</a> •
+  <a href="#responsive-images---3-use-cases---more-info">Responsive Images</a> •
+  <a href="#animation-syntax">Animation</a> •
+  <a href="#infotips--fixes">Tips</a> •
+  <a href="#licensing">License</a>
+</p>
+
 # Natours
 
 _For a fictitious nature tours company - Project by Jonas Schmedtmann_
