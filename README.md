@@ -15,12 +15,6 @@
   <a href="#licensing">License</a>
 </p>
 
-# Natours
-
-_For a fictitious nature tours company - Project by Jonas Schmedtmann_
-
-You can find a link to Jonas repo [Here](https://github.com/jonasschmedtmann/advanced-css-course)
-
 ## How to run this Application?
 
 Clone or download this repo to your local machine, unzip and open index.html file in a browser.
