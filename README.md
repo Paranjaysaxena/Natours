@@ -18,7 +18,6 @@
 ## How to run this Application?
 
 Clone or download this repo to your local machine, unzip and open index.html file in a browser.
-Alternatively, click [Here to view the finished website on Heroku.](https://natours-outdoors.herokuapp.com/)
 
 ## Features
 
